@@ -21,20 +21,20 @@ building applied ML and causal inference projects on the side.
 
 #### 🔧 Featured projects
 
-**[Personal Notes Classifier →](https://github.com/yuval-baneth/personal-notes-classifier)**
+**[Personal Notes Classifier →](https://github.com/yuval-baneth/Notes_classifier_with_multiple_ML_models)**
 A binary NLP classifier benchmarked across 10 modeling approaches (classical ML through
 fine-tuned BERT), with 5-fold cross-validation — on a genuinely hard, personal, multilingual
 dataset.
 
-**[NBA End-Game Strategy →](https://github.com/yuval-baneth/nba-endgame-strategy)**
+**[NBA End-Game Strategy →](https://github.com/yuval-baneth/NBA_End_Of_Game_Strategies)**
 Two causal inference studies on NBA coaching decisions (fouling up 3, calling timeouts),
 using propensity-score weighting to separate strategy effects from situational confounding.
 
-**[Telehealth & ER Policy Impact →](https://github.com/yuval-baneth/telehealth-er-policy-impact)**
+**[Telehealth & ER Policy Impact →](https://github.com/yuval-baneth/Telehealth_ER_impact)**
 A difference-in-differences analysis testing whether California's 2020 telehealth expansion
 caused a measurable drop in psychiatric ER visits, using real state health-access data.
 
-**[Bayesian Fertility vs. Urbanization →](https://github.com/yuval-baneth/bayesian-fertility-urbanization)**
+**[Bayesian Fertility vs. Urbanization →](https://github.com/yuval-baneth/India_demographics_trends_analysis)**
 Bayesian regression (linear + B-splines) modeling 70 years of fertility/urbanization data in
 India, with full posterior diagnostics and PSIS-LOO model comparison.
 
