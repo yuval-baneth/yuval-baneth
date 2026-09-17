@@ -51,5 +51,4 @@ certified yoga instructor who runs poetry and philosophy workshops, and goes hik
 `Python` · `pandas` · `scikit-learn` · `PyTorch` · `TensorFlow` · `statsmodels` · `PyMC` · `R` · `SQL`
 
 #### 📫 Reach me
-[yuvalbaneth@gmail.com](mailto:yuvalbaneth@gmail.com) · [https://www.linkedin.com/in/yuval-baneth-69714a21b/](#) — swap this link for your actual LinkedIn URL
-
+[yuvalbaneth@gmail.com](mailto:yuvalbaneth@gmail.com) · [https://www.linkedin.com/in/yuval-baneth-69714a21b/](#) 
